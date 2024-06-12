@@ -1,0 +1,27 @@
+video {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+}
+
+.HomePageText {
+
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.HomePageText h2 {
+    color: #0D1F2D;
+    text-align: center;
+    margin-top: 40px;
+}
+
+li {
+    list-style: none;
+}
+
+.HomePageText p {
+    margin: 2px;
+}

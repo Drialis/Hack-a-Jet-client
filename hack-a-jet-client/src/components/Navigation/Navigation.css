@@ -1,0 +1,25 @@
+.Navigation {
+    background-color: #0D1F2D;
+    height: 100px;
+
+}
+
+.Navigation .me-auto {
+    margin-top: 20px;
+}
+
+.Navigation a {
+    text-decoration: none;
+
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+
+.Navigation .logo {
+    position: absolute;
+    z-index: 9000;
+    left: calc(50% - 50px);
+    top: 10px;
+}

@@ -1,0 +1,9 @@
+.OperatorsList img {
+    width: 120px;
+    height: 120px;
+}
+
+.OperatorsList a {
+
+    text-decoration: none;
+}
